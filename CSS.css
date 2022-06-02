@@ -88,3 +88,9 @@ body {
 .neon-button:focus::after {
   opacity: 20;
 }
+
+#logo{ 
+	position:fixed; 
+	top:0; 
+	left:0; 
+}
